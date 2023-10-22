@@ -1,0 +1,15 @@
+.banner{
+	background-image:url(../../image/équipement.jpg);
+	color: whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+.banner	h1	 {
+	font-size:  55px;
+}
+.banner h2 {
+	font-size: 40px;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}

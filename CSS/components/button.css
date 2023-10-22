@@ -1,0 +1,18 @@
+.button	{
+	background-color: hotpink;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: lightpink;
+	font-weight: bold;
+	cursor: pointer;
+        
+}                                
+.button hover{
+	background-color: black;
+	border: 2px solid #1f69ec;
+	box-shadow: 10px 5px 5px; #719fee
+	color:  #Af69ec;
+	text-align: center;
+	font-size: 22 px;
+	font-family: serif;
+}
